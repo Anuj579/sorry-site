@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I know words can't undo what I did, but I need you to know that you mean everything to me. I've been thinking about all our beautiful moments together, and I realize how much I've hurt the most precious person in my life. I promise to do better, to be better, for you.✨
+            I know words can't undo what I did, but I need you to know that you mean everything to me. I promise to do better, to be better, for you and focus on talking rather than eating.
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
