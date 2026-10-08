@@ -129,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            You're so beautiful, but I still hurt you… I'm so sorry.💔
+            meri malkin itni pyari hai aur maine aapko hurt kiya🥺 I'm so sorry 👉👈
           </motion.p>
 
           <motion.p
@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I know words can't undo what I did, but I need you to know that you mean everything to me. I've been thinking about all our beautiful moments together, and I realize how much I've hurt the most precious person in my life. I promise to do better, to be better, for you.✨
+            malkin pata hai maine glti ki hai maujhe aisa behave nhi krna chahiye tha dil me  aapke liye pyaar kabhi kam nhi hoga Bs aapka sath chahiye hamesha 🥺❤️ really mai mujhe tumhara sath chahiye right now you means everything to me dil me bss aapke liye pyar kabhi kam nahi hoga. Bas aapka saath chahiye, hamesha. 🥺❤️ tum meri life a wo part bn gyi ho jiski choti si baat meri khushi ban jati hai aur apki narazgi mujhe andar tak udaas kar deti hai main nahi chahta ki mere gusse ki wajah se aap mujhse door ho jao I really love and enjoyed all our beautiful moments together mujhe pata hai mainae glt behaviour show kiya tha nahi krna chahiye tha aisa i know maine tumne bhot jyada hurt kr diya hai  I promise to do better to be better for you✨ Aap meri zindagi ka woh khoobsurat hissa ho jise mai kabhi khona nahi chahta I love youAap meri zindagi ka woh khoobsurat hissa ho jise main kabhi khona nahi chahta. I love youAap meri zindagi ka woh khoobsurat hissa ho jise main kabhi khona nahi chahta I love you Malkin jii 🫶
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
